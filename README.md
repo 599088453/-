@@ -16,6 +16,9 @@
 1`测试标记`1  
 `下面是测试网站图片连接`
 
-![12](http://pics5.baidu.com/feed/023b5bb5c9ea15ce4f714732c99af4f73b87b289.jpeg?token=e752b7c475362058fc4bf7faf22bbca7&s=29E4B1089CA310967B882B920300C087)
+![12](http://pics5.baidu.com/feed/023b5bb5c9ea15ce4f714732c99af4f73b87b289.jpeg?token=e752b7c475362058fc4bf7faf22bbca7&s=29E4B1089CA310967B8 82B920300C087)  
+
 `测试超链接`  
-[我的github主页](https://github.com/599088453)
+
+[我的github主页](https://github.com/599088453)  
+PS:想要换行的话先输入两空格在回车
